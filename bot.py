@@ -24,8 +24,4 @@ def get_text_messages(message):
         bot.send_message(message.from_user.id, "Я тебя не понимаю. Ты прислала мне: "+message.text+"\n\nНапиши /help.")
 
 
-            
-
-
-
 bot.polling(none_stop=True, interval=0)
