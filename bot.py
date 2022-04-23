@@ -1,8 +1,9 @@
 import telebot
 import main
+import config
 
 
-bot = telebot.TeleBot('5294476072:AAFVr5-wEShBalVJnJntXucHkAhO1ZQQVRw')
+bot = telebot.TeleBot(config.BOT_KEY)
 
 
 # Пример обработки присланного текста
