@@ -1,5 +1,0 @@
-git: быстрый старт
-http://www.microsin.net/programming/pc/git-and-github-tutorial-for-beginners.html
-
-Методы .find_all() и .find*() модуля BeautifulSoup4 в Python.
-https://docs-python.ru/packages/paket-beautifulsoup4-python/metody-find-all/
