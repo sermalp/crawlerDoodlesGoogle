@@ -1,3 +1,16 @@
+Для перехода в виртуальное окружение Docker команда:
+ssh localhost -p222
+
+переходим в папку проекта
+cd ProjectPython/crawlerDoodlesGoogle/
+
+запускаем бота
+python3 bot.py
+
+
+***
+
+
 git: быстрый старт
 http://www.microsin.net/programming/pc/git-and-github-tutorial-for-beginners.html
 
